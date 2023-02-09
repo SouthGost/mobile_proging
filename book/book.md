@@ -1,9 +1,12 @@
 <img src="./img/15.3.jpg"><br>
 Рис. 15.3. Нажмкте кнопку Contlnue
+
 <img src="./img/15.4.jpg"><br>
 Рис. 15.4. Список проектов
+
 <img src="./img/15.5.jpg"><br>
 Рис. 15.5. Создание нового проекта
+
 <img src="./img/15.6.jpg"><br>
 Рис. 15.6. Среда Арр lnventor<br>
 
