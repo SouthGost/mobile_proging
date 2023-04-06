@@ -19,21 +19,27 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="Главная" />
+        android:text="Главная"/>
 
     <Button
         android:id="@+id/search_item"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="Поиск" />
+        android:text="Поиск"/>
 
     <Button
         android:id="@+id/profile_item"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="1"
+        android:text="Профиль"/>
 
-        android:text="Профиль" />
+<!--    <Button-->
+<!--        android:id="@+id/exit_item"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_weight="1"-->
+<!--        android:text="Выход" />-->
     <!--    </LinearLayout>-->
 </LinearLayout>
